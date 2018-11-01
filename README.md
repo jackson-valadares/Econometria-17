@@ -1,2 +1,1 @@
-# Econometria-17
-Aula-17
+# aula-17
